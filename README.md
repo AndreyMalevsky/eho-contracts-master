@@ -6,7 +6,7 @@ Eho-contracts is designed to facilitate exchange of contracts between clients of
 Each client can create a standard agreement with its prerequisites, account information, address and 
 a reference to its electronic signature (if exists). A client can also include desired conditions of payment
 (prepayment, payment by installments etc.). Upon reaching an agreement the two sides of the contract choose 
-whose standard contract is used. Then the standard text is filled with the actual data taken from the
+which standard contract is used. Each client can download a number of standard contracts to choose from. Then the standard text is filled with the actual data taken from the
 profiles of the parties. The generated text can be viewed by both parties, edited if needed, and signed
 by electronic signatures if available.
 
