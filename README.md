@@ -14,9 +14,9 @@ by electronic signatures if available.
 
 Download links:
 
-SSH clone URL: ssh://git@github.com/AndreyMalevsky/eho-contracts.git
+SSH clone URL: ssh://git@github.com/AndreyMalevsky/eho-contracts-master.git
 
-HTTPS clone URL: https://github.com/AndreyMalevsky/eho-contracts.git
+HTTPS clone URL: https://github.com/AndreyMalevsky/eho-contracts-master.git
 
 
 
