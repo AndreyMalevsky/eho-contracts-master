@@ -5,10 +5,15 @@
 Eho-contracts is designed to facilitate exchange of contracts between clients of e-ho.ru.
 Each client can create a standard agreement with its prerequisites, account information, address and 
 a reference to its electronic signature (if exists). A client can also include desired conditions of payment
-(prepayment, payment by installments etc.). Upon reaching an agreement the two sides of the contract choose 
-which standard contract is used. Each client can download a number of standard contracts to choose from. Then the standard text is filled with the actual data taken from the
-profiles of the parties. The generated text can be viewed by both parties, edited if needed, and signed
-by electronic signatures if available.
+(prepayment, payment by installments etc.). Since a client is able to operate as several legal entities, 
+it can download standard contracts for some or all of them. A standard agreement is a chain of MS Word files. 
+The chain starts with the text of the main contract. Several appendices and amendments can be linked in a chain.
+Standard contracts are stored in the scheme Eho-contracts of the database Ehoreca.
+
+Upon reaching an agreement the two sides of the contract choose which standard contract is used. 
+Each client can download a number of standard contracts to choose from. Then the standard text is filled 
+with the actual data taken from the profiles of the parties (stored in the scheme Eho-profiles of the database Ehoreca). 
+The generated text can be viewed by both parties, edited if needed, and signed by electronic signatures if available.
 
 ## Getting Started
 
